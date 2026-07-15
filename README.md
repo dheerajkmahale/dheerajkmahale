@@ -1,131 +1,80 @@
 # Hi 👋, I'm K Dheerajkumar Mahale
 
-<h3 align="center">Data Science Undergraduate | AI & Machine Learning Enthusiast | Data Analytics</h3>
+### Data Science Undergraduate | AI & Machine Learning Enthusiast
 
-<p align="center">
-  <a href="mailto:dheerajkmahale1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/k-dheerajkumar-6a3b14248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/dheerajkmahale">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+🎓 B.E. Computer Science & Engineering (Data Science)  
+📍 Bangalore, India
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 B.E. Computer Science & Engineering (Data Science)  
-🏫 Sai Vidya Institute of Technology  
-📍 Bangalore, India
-
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Analytics and Computer Vision
-- 🌱 Currently learning Deep Learning & Full-Stack AI Development
-- 👨‍💼 Founder & President of **SYNAPSE AI Club**
-- 💡 Love building AI solutions for real-world problems
+- 🎓 Data Science student with an 8.4 CGPA
+- 🤖 Interested in AI, Machine Learning and Computer Vision
+- 📊 Passionate about Data Analytics
+- 🌱 Currently learning Deep Learning and Full-Stack AI
+- 👨‍💻 Founder & President of SYNAPSE AI Club
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+### Languages
+- Python
+- SQL
+- Java
 
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+### AI & ML
+- TensorFlow
+- PyTorch
+- OpenCV
+- Pandas
 
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+### Web
+- React
+- TypeScript
+- Tailwind CSS
 
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Power BI
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 💰 Cyber Financial Forensics Hub
-AI-powered fraud investigation platform using graph analytics and visualization.
+AI-powered fraud investigation platform using graph analytics.
 
 ### 📰 Digital Truth Engine
-AI-powered fact-checking platform that detects misinformation using NLP and Machine Learning.
+AI-powered fake news detection and fact verification system.
 
-### 🎥 Deepfake Detection & Mitigation System
-CNN + LSTM based deepfake detection system using TensorFlow and OpenCV.
+### 🎥 Deepfake Detection System
+CNN + LSTM based deepfake detection platform.
 
-### 🏺 Intelligent 3D Artifact Scanning & Classification
-Computer Vision system using OpenCV and PyTorch for 3D reconstruction.
-
----
-
-# 🏆 Achievements
-
-🏅 Founder & President — SYNAPSE AI Club
-
-🏅 Smart India Hackathon (SIH) 2025 Participant
-
-🏅 RIFT'26 Hackathon Participant
-
-🏅 AI Project Presenter at Technical Events
+### 🏺 Intelligent 3D Artifact Classification
+AI-powered reconstruction and classification using OpenCV and PyTorch.
 
 ---
 
-# 📜 Certifications
+## 🏆 Achievements
 
-- Python Programming — GeeksforGeeks
-- Software Engineering Job Simulation — JPMorgan Chase (Forage)
-- Data Analytics Job Simulation — Deloitte Australia (Forage)
-- Fundamentals of Computer Networking — Microsoft
-
----
-
-# 📊 GitHub Stats
-
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajkmahale&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajkmahale&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dheerajkmahale&theme=tokyonight)
+- Founder & President — SYNAPSE AI Club
+- Smart India Hackathon (SIH) 2025 Participant
+- RIFT'26 Hackathon Participant
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect with Me
 
-📧 Email: **dheerajkmahale1@gmail.com**
+📧 **Email:** [dheerajkmahale1@gmail.com](mailto:dheerajkmahale1@gmail.com)
 
-💼 LinkedIn: **https://www.linkedin.com/in/k-dheerajkumar-6a3b14248/**
+💼 **LinkedIn:** https://www.linkedin.com/in/k-dheerajkumar-6a3b14248/
 
-💻 GitHub: **https://github.com/dheerajkmahale**
-
----
-
-⭐ *"Passionate about building AI-driven solutions that solve real-world problems through data and innovation."*
-<!--
-**dheerajkmahale/dheerajkmahale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **GitHub:** https://github.com/dheerajkmahale
