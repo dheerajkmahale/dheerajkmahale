@@ -53,7 +53,6 @@ Reconstructs 3D models from 2D images via depth estimation, then classifies arti
 ## Achievements
 
 🏅 President — SYNAPSE AI Club
-🏅 Data Science Intern — Prodigy InfoTech
 🏅 Smart India Hackathon (SIH) 2025 — Participant
 🏅 RIFT '26 Hackathon (Unstop Freedom Festival) — Participant
 🏅 Volunteer, Hack With Bangalore 2.0 (24-Hr Hackathon)
