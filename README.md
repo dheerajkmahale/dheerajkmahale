@@ -16,4 +16,4 @@ I am a final-year Data Science student at Sai Vidya Institute of Technology. I a
 - [ArtifactVault: 3D Scanning & Classification](https://github.com/dheerajkmahale/ArtifactVault) - 84.5% Accuracy
 - [Cyber Financial Forensics Hub](https://github.com/dheerajkmahale/cyber-forensics-hub) - 91.3% Precision / 88.9% Recall
 - [DeepGuard-AI-Security](https://github.com/dheerajkmahale/DeepGuard-AI-Security) - 95% Precision/Recall
-- [Digital Truth Engine](https://github.com/dheerajkmahale/digital-truth-engine) - 100% Accuracy (Small Synthetic Dataset)
+- [Digital Truth Engine](https://github.com/dheerajkmahale/digital-truth-engine) - High accuracy (>90%) on a small proof-of-concept dataset (not yet validated on real-world data)
