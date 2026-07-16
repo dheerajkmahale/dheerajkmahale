@@ -1,98 +1,68 @@
 # Hi 👋, I'm K Dheerajkumar Mahale
 
-<h3 align="center">Data Science Undergraduate | AI & Machine Learning Enthusiast | Data Analytics</h3>
+### Data Science Undergraduate | AI & Machine Learning | Data Analytics
 
-<p align="center">
-  <a href="mailto:dheerajkmahale1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/k-dheerajkumar-6a3b14248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/dheerajkmahale">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dheerajkmahale1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/k-dheerajkumar-6a3b14248/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/dheerajkmahale)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 B.E. Computer Science & Engineering (Data Science)  
-🏫 Sai Vidya Institute of Technology  
+🎓 B.E. Computer Science & Engineering (Data Science), final year
+🏫 Sai Vidya Institute of Technology, Bangalore
 📍 Bangalore, India
 
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Analytics and Computer Vision
-- 🌱 Currently learning Deep Learning & Full-Stack AI Development
-- 👨‍💼 Founder & President of **SYNAPSE AI Club**
-- 💡 Love building AI solutions for real-world problems
+- 🤖 Building end-to-end AI/ML systems — from data pipeline to model to dashboard
+- 📊 Focused on computer vision, fraud/anomaly detection, and data analytics
+- 👨‍💼 President, SYNAPSE AI Club — leading a 30+ member student community
+- 💻 Webmaster, IEEE TEMS Students Chapter @ SVIT
+- 🧑‍💻 Data Science Intern, Prodigy InfoTech <!-- add 1 line on what you worked on -->
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
 
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+**AI / ML:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-### 💰 Cyber Financial Forensics Hub
-AI-powered fraud investigation platform using graph analytics and visualization.
+### 🎥 [Deepfake Detection & Mitigation System](https://github.com/dheerajkmahale/<repo-name>)
+CNN + LSTM model detecting facial and temporal inconsistencies in video.
+**Result:** <!-- e.g. 87% accuracy on a 500-video test set --> · `Python` `TensorFlow` `OpenCV`
 
-### 📰 Digital Truth Engine
-AI-powered fact-checking platform that detects misinformation using NLP and Machine Learning.
+### 💰 [Cyber Financial Forensics Hub](https://github.com/dheerajkmahale/cyber-forensics-hub)
+Fraud-analytics platform detecting money-muling using graph-based transaction analysis, with investigation dashboards.
+**Result:** <!-- add scale/precision --> · `Python` `TypeScript` `Graph Theory`
 
-### 🎥 Deepfake Detection & Mitigation System
-CNN + LSTM based deepfake detection system using TensorFlow and OpenCV.
+### 🏺 [Intelligent 3D Artifact Scanning & Classification](https://github.com/dheerajkmahale/ArtifactVault)
+Reconstructs 3D models from 2D images via depth estimation, then classifies artifacts.
+**Result:** <!-- add accuracy --> · `Python` `OpenCV` `PyTorch`
 
-### 🏺 Intelligent 3D Artifact Scanning & Classification
-Computer Vision system using OpenCV and PyTorch for 3D reconstruction.
-
----
-
-# 🏆 Achievements
-
-🏅 Founder & President — SYNAPSE AI Club
-
-🏅 Smart India Hackathon (SIH) 2025 Participant
-
-🏅 RIFT'26 Hackathon Participant
-
-🏅 AI Project Presenter at Technical Events
+<!-- Only keep DeepGuard-AI-Security / digital-truth-engine here if they're finished and README'd -->
 
 ---
 
-## 🌐 Connect With Me
+## Achievements
 
-📧 **Email:** [dheerajkmahale1@gmail.com](mailto:dheerajkmahale1@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/k-dheerajkumar-6a3b14248/
-
-💻 **GitHub:** https://github.com/dheerajkmahale
+🏅 President — SYNAPSE AI Club
+🏅 Data Science Intern — Prodigy InfoTech
+🏅 Smart India Hackathon (SIH) 2025 — Participant
+🏅 RIFT '26 Hackathon (Unstop Freedom Festival) — Participant
+🏅 Volunteer, Hack With Bangalore 2.0 (24-Hr Hackathon)
 
 ---
 
-⭐ *"Passionate about building AI-driven solutions that solve real-world problems through data and innovation."*
+## Connect
+
+📧 dheerajkmahale1@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/k-dheerajkumar-6a3b14248/) · 💻 [GitHub](https://github.com/dheerajkmahale)
+
+---
+⭐ *Building AI-driven solutions that solve real-world problems through data and innovation.*
