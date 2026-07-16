@@ -1,15 +1,15 @@
-# Hello, I'm Dheeraj K Mahale!
+# Hello, I'm K Dheerajkumar!
 
 I am a final-year Data Science student at Sai Vidya Institute of Technology. I am passionate about AI/ML and its applications in security and forensics.
 
 ## Current Roles
 - **President**, SYNAPSE AI Club
 - **Webmaster**, IEEE TEMS Students Chapter @ SVIT
-- **Data Science Intern**, Prodigy InfoTech (Apr 2026)
 
 ## Achievements
 - SIH 2025: Participant
 - RIFT '26: Participant
+- Presented AI projects at inter-college technical events
 
 ## Featured Projects
 - [Deepfake Detection & Mitigation System](https://github.com/dheerajkmahale/deepfake-detector) - 88% Accuracy
