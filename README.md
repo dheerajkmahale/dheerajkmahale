@@ -3,6 +3,7 @@
 # K Dheerajkumar Tulasidas Mahale
 ### Building Full-Stack Applications and Applied AI/ML Systems
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0D1117?style=flat-square&logo=githubpages&logoColor=white)](https://dheerajkmahale.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-dheerajkumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dheerajkmahale)
 [![Email](https://img.shields.io/badge/Email-dheerajkmahale1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dheerajkmahale1@gmail.com)
@@ -234,6 +235,7 @@ I am a Computer Science and Engineering (Data Science) undergraduate at Sai Vidy
 
 ### 📬 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://dheerajkmahale.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-dheerajkumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dheerajkmahale)
 [![Email](https://img.shields.io/badge/Email-dheerajkmahale1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajkmahale1@gmail.com)
