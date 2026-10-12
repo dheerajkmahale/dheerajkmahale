@@ -78,6 +78,7 @@ I am a Computer Science and Engineering (Data Science) undergraduate at Sai Vidy
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -173,6 +174,22 @@ I am a Computer Science and Engineering (Data Science) undergraduate at Sai Vidy
 | **Fake Recall** | **84.71%** | Spatio-temporal temporal sequence verification |
 
 *(Reported metrics are evaluated directly on the official 518-video Celeb-DF v2 held-out test benchmark as documented in the repository).*
+
+---
+
+#### 04. [Synapse Gesture Arena — Gesture-Controlled Arcade Game](https://github.com/dheerajkmahale/Synapse-Gesture-Arena)
+> **Touchless browser arcade game that runs real-time hand tracking entirely client-side; no server inference and no video leaves the browser.**
+
+<p>
+  <a href="https://synapse-gesture-arena.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-synapse--gesture--arena.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Synapse Gesture Arena Live Demo" /></a>
+  <a href="https://github.com/dheerajkmahale/Synapse-Gesture-Arena" target="_blank"><img src="https://img.shields.io/badge/Source_Code-Synapse--Gesture--Arena-181717?style=flat-square&logo=github&logoColor=white" alt="Synapse Gesture Arena Repo" /></a>
+  <img src="https://img.shields.io/badge/Stack-React_|_Vite_|_MediaPipe_|_Web_Audio_API-success?style=flat-square" alt="Tech Stack" />
+</p>
+
+* **Real-time hand tracking:** Google MediaPipe Hand Landmarker extracts 21 hand landmarks per frame; the index fingertip steers the basket, with exponential smoothing to filter jitter. Inference runs in the browser using WebAssembly and GPU acceleration.
+* **Gesture controls:** A finger-extension classifier maps a fist to pause and an open palm to resume, with mouse and touch as a fallback when the webcam is unavailable.
+* **Game mechanics:** Falling targets, rare bonus targets, a DEATH MODE for the final 10 seconds, a benchmark AI score and a local top-5 leaderboard saved in localStorage.
+* **Engineering:** Sound effects synthesized with the Web Audio API (no audio assets), a drift-free pause timer, 36 automated Vitest tests, deployed on Vercel.
 
 ---
 
